@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BankiyeMonitor</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="transactions">Transactions</string>
+    <string name="security">Security</string>
+    <string name="settings">Settings</string>
+    <string name="alerts">Alerts</string>
+    <string name="summary">Summary</string>
+    <string name="total_sent">Total Sent</string>
+    <string name="total_received">Total Received</string>
+    <string name="login_attempts">Login Attempts</string>
+    <string name="password_resets">Password Resets</string>
+    <string name="active_devices">Active Devices</string>
+    <string name="suspicious_activity">Suspicious Activity</string>
+    <string name="spoofed_messages">Spoofed Messages</string>
+    <string name="weekly_summary">Weekly Summary</string>
+    <string name="daily_summary">Daily Summary</string>
+    <string name="monthly_summary">Monthly Summary</string>
+    <string name="yearly_summary">Yearly Summary</string>
+    <string name="grant_sms_permission">Grant SMS Permission</string>
+    <string name="sms_permission_rationale">BankiyeMonitor needs SMS access to read and parse your bank alerts. All processing happens on your device — your messages are never sent to any server.</string>
+    <string name="notification_channel_alerts">Security Alerts</string>
+    <string name="notification_channel_summaries">Account Summaries</string>
+    <string name="no_transactions">No transactions found</string>
+    <string name="verified_sender">Verified Sender</string>
+    <string name="unverified_sender">Unverified Sender</string>
+    <string name="spoofed_sender">Potential Spoof Detected</string>
+    <string name="high_risk">High Risk</string>
+    <string name="medium_risk">Medium Risk</string>
+    <string name="low_risk">Low Risk</string>
+</resources>
